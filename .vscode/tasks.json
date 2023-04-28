@@ -1,0 +1,25 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gradle",
+			"id": "c:\\Computer Graphics\\Group Project\\homework04\\Build\\ou-cs-cgrunou-cs-cg",
+			"script": "run",
+			"description": "Runs this project as a JVM application",
+			"group": "application",
+			"project": "ou-cs-cg",
+			"buildFile": "C:\\Computer Graphics\\Group Project\\homework04\\Build\\ou-cs-cg\\build.gradle",
+			"rootProject": "ou-cs-cg",
+			"projectFolder": "c:\\Computer Graphics\\Group Project\\homework04\\Build\\ou-cs-cg",
+			"workspaceFolder": "c:\\Computer Graphics\\Group Project\\homework04\\Build\\ou-cs-cg",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: run"
+		},
+
+		
+	]
+}
